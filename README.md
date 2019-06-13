@@ -10,3 +10,6 @@
 -
 ## 5.- App Inventor
 ## 6.- Diseños 3D
+-Las piezas las descargamos de la página del creador.
+-[Piezas 3D](https://www.thingiverse.com/thing:1015238)
+
