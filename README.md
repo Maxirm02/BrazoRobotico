@@ -1,5 +1,5 @@
 # BrazoRobotico
 
-## APP
+## 2 funcionamientos:
 - lkjfgjpojsgp
 - pouisetpokie
