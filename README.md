@@ -3,7 +3,7 @@
 ## 1.- Memoria
 ## 2.- Vídeo 
 ## 3.- Código Arduino (manual/automático)
-- <img src="https://docs.google.com/drawings/d/1vqtFs_9csFwfTT-35Su0XuSZQQrZXpokqybvC3j2C-8/edit" />
+- <img src="Esquema software final.jpg" />
 ## 3.1- Código app inventor
 -
 ## 4.- Esquema electrónico
