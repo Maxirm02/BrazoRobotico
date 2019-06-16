@@ -5,8 +5,8 @@
 ## 2.- Vídeo 
 
 ## 3.- Código Arduino (manual/automático)
- -Manual/automático
- -App inventor
+ - Manual/automático
+ - App inventor
  
 ## 4.- Esquema electrónico
 - archivo fzz
