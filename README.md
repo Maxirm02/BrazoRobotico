@@ -5,6 +5,7 @@
 - Google Drive
 
 ## 2.- Vídeo 
+- Archivo mp4
 
 ## 3.- Código Arduino 
  - Manual/automático
