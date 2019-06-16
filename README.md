@@ -3,7 +3,7 @@
 ## 1.- Memoria
 ## 2.- Vídeo 
 ## 3.- Código Arduino (manual/automático)
- <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/Esquema%20software%20final.jpg" />
+ - <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/Esquema%20software%20final.jpg" />
 
 ## 3.1- Código app inventor
 -
