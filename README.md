@@ -13,7 +13,7 @@
 - archivo fzz
 
 ## 5.- App Inventor
- <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190611-WA0018%20girado.jpg" />
+ 
 
 ## 6.- Diseños 3D
 -Las piezas las descargamos de la página del creador.
