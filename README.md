@@ -8,11 +8,13 @@
 ## 3.1- Código app inventor
 - Archivo ino
 - Archivo apk
+ 
+ ## 4.- Esquema electrónico
+- archivo fzz
+
+## 5.- App Inventor
  <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190611-WA0018%20girado.jpg" />
 
-## 4.- Esquema electrónico
--
-## 5.- App Inventor
 ## 6.- Diseños 3D
 -Las piezas las descargamos de la página del creador.
 -[Piezas 3D](https://www.thingiverse.com/thing:1015238)
