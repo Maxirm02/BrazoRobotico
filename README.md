@@ -1,6 +1,8 @@
 # BrazoRobotico
 
 ## 1.- Memoria
+- PDF
+- Google Drive
 
 ## 2.- Vídeo 
 
