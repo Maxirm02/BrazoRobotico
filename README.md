@@ -4,7 +4,7 @@
 
 ## 2.- Vídeo 
 
-## 3.- Código Arduino (manual/automático)
+## 3.- Código Arduino 
  - Manual/automático
  - App inventor
  
@@ -12,7 +12,6 @@
 - archivo fzz
 
 ## 5.- App Inventor
-- Archivo ino
 - Archivo apk
 - Archivo aia
  
