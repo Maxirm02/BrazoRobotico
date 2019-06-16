@@ -2,7 +2,7 @@
 
 ## 1.- Memoria
 - PDF
-- Google Drive
+- [Google Drive](https://docs.google.com/document/d/1_NB0FHpqH9Het6fLl1ydyaewMl_JhK7n_0M859DBDbk/edit#heading=h.sapbsfjm2yav)
 
 ## 2.- Vídeo 
 - Archivo mp4
