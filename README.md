@@ -3,16 +3,17 @@
 ## 1.- Memoria
 ## 2.- Vídeo 
 ## 3.- Código Arduino (manual/automático)
- <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/C%C3%B3digo_con_dos_debounce.ino" />
-
+ -Manual/automático
+ -App inventor
 ## 3.1- Código app inventor
-- Archivo ino
-- Archivo apk
+
  
  ## 4.- Esquema electrónico
 - archivo fzz
 
 ## 5.- App Inventor
+- Archivo ino
+- Archivo apk
  
 
 ## 6.- Diseños 3D
