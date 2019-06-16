@@ -8,7 +8,7 @@
 ## 3.1- Código app inventor
 - Archivo ino
 - Archivo apk
- <img src="" />
+ <img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190611-WA0018%20girado.jpg" />
 
 ## 4.- Esquema electrónico
 -
