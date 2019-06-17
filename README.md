@@ -19,6 +19,7 @@
 ## 5.- App Inventor
 - Archivo apk
 - Archivo aia
+<img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190611-WA0018%20girado.jpg" width="300" align="center">
  
 
 ## 6.- Diseños 3D
