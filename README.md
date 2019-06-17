@@ -1,6 +1,6 @@
 # BrazoRobotico
 
-<img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190530-WA0003.jpg" width="100" align="center">
+<img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/IMG-20190530-WA0003.jpg" width="300" align="center">
 
 ## 1.- Memoria
 - PDF
