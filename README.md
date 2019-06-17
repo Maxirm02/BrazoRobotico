@@ -15,7 +15,7 @@
  
 ## 4.- Esquema electrónico
 - archivo fzz
-<img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/Esquema%20electr%C3%B3nico%20bueno%20.jpg" width="300" align="center">
+<img src="https://github.com/Maxirm02/BrazoRobotico/blob/master/Esquema%20electr%C3%B3nico%20bueno%20.jpg" width="450" align="center">
 
 ## 5.- App Inventor
 - Archivo apk
