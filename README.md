@@ -1,5 +1,7 @@
 # BrazoRobotico
 
+<img src="/A1-Basicas/A1-01.png" width="100" align="center">
+
 ## 1.- Memoria
 - PDF
 - [Google Drive](https://docs.google.com/document/d/1_NB0FHpqH9Het6fLl1ydyaewMl_JhK7n_0M859DBDbk/edit#heading=h.sapbsfjm2yav)
